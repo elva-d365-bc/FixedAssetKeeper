@@ -13,60 +13,48 @@
       "is_incremental": false
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/fixed_asset_keeper/faq.md",
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/faq.html",
-          "hash": "9Qh4U0U1qoYJVrpvB4vgtQ=="
+          "hash": "lkJ/gdIfPDdHlFSy/UgI8Q=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/fixed_asset_keeper/fixed_asset_keeper.md",
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/fixed_asset_keeper.html",
-          "hash": "8utAUnUCe3kwKjLkHrVJMA=="
+          "hash": "p6CBWFD5STtjKIEr8V9bSg=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/fixed_asset_keeper/overview.md",
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/overview.html",
-          "hash": "5Rns/UYmTysRZkdCvdNxYw=="
+          "hash": "ULOcUWebCc6tek4MmppSyQ=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "articles/fixed_asset_keeper/toc.md",
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/toc.html",
-          "hash": "uQdMqpx4KJYggXiF/6t/1A=="
+          "hash": "4zlOumcw29SO1IfroEbYwA=="
         }
       },
       "is_incremental": false,
@@ -143,30 +131,24 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "cDUx5tiurenJIRsGXNeFkQ=="
+          "hash": "5qax7xD9m9zmofL1dVpglg=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "include-not-found"
-      ],
       "type": "Conceptual",
       "source_relative_path": "readme.md",
       "output": {
         ".html": {
           "relative_path": "readme.html",
-          "hash": "9e9TCB41/xZFuz5WOaH6fw=="
+          "hash": "Ss76MXJBA5/f1P2K00Z2YQ=="
         }
       },
       "is_incremental": false,
