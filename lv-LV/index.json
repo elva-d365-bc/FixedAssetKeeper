@@ -1,8 +1,8 @@
 {
   "articles/fixed_asset_keeper/faq.html": {
     "href": "articles/fixed_asset_keeper/faq.html",
-    "title": "FAQ | Fixed Asset Keeper",
-    "keywords": "FAQ Overview Fixed Asset Keeper is a business software solution developed by ELVA"
+    "title": "Biežāk uzdotie jautājumi | Fixed Asset Keeper",
+    "keywords": "Biežāk uzdotie jautājumi Pārskats Fixed Asset Keeper ir biznesa programmatūras risinājums, kas izstrādāts ELVA"
   },
   "articles/fixed_asset_keeper/fixed_asset_keeper.html": {
     "href": "articles/fixed_asset_keeper/fixed_asset_keeper.html",
@@ -11,13 +11,13 @@
   },
   "articles/fixed_asset_keeper/overview.html": {
     "href": "articles/fixed_asset_keeper/overview.html",
-    "title": "Overview | Fixed Asset Keeper",
-    "keywords": "Overview Fixed Asset Keeper is a business software solution developed by ELVA. Fixed Asset Keeper is fully integrated with ELVA"
+    "title": "Pārskats | Fixed Asset Keeper",
+    "keywords": "Pārskats Fixed Asset Keeper ir biznesa programmatūras risinājums, kas izstrādāts ELVA. Fixed Asset Keeper ir pilnībā integrēts ar Dynamics 365 Business Central"
   },
   "articles/fixed_asset_keeper/usage_scenarios.html": {
     "href": "articles/fixed_asset_keeper/usage_scenarios.html",
-    "title": "Key Usage Scenarios | Fixed Asset Keeper",
-    "keywords": "Key Usage Scenarios"
+    "title": "Galvenie lietošanas scenāriji | Fixed Asset Keeper",
+    "keywords": "Galvenie lietošanas scenāriji"
   },
   "articles/support/customer_terms.html": {
     "href": "articles/support/customer_terms.html",
