@@ -78,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/support/customer_terms.html",
-          "hash": "bmzJ5CQTLqFQRNqVdvm+Uw=="
+          "hash": "TNjEVhZ4TmAc51kPxK6CQw=="
         }
       },
       "is_incremental": false,
@@ -90,19 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/support/privacy_statement.html",
-          "hash": "ofUfibO350km+P7oH7NzFQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "articles/support/toc.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/support/toc.html",
-          "hash": "8K7ggoK1d4Mnj+FBGn350A=="
+          "hash": "AqqFVmNcMucSOtFFxdDPnQ=="
         }
       },
       "is_incremental": false,
@@ -160,7 +148,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "PkyfTDiehKkujGs9/7WNsw=="
+          "hash": "MljtyzuddTO6X72dlCwOVw=="
         }
       },
       "is_incremental": false,
