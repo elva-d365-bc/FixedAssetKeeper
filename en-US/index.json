@@ -1,18 +1,18 @@
 {
   "articles/fixed_asset_keeper/faq.html": {
     "href": "articles/fixed_asset_keeper/faq.html",
-    "title": "FAQ | Fixed Asset Keeper",
-    "keywords": "FAQ Overview Fixed Asset Keeper is a business software solution developed by ELVA"
+    "title": "Biežāk uzdotie jautājumi | Fixed Asset Keeper",
+    "keywords": "Biežāk uzdotie jautājumi Overview Fixed Asset Keeper is a business software solution developed by ELVA"
   },
   "articles/fixed_asset_keeper/fixed_asset_keeper.html": {
     "href": "articles/fixed_asset_keeper/fixed_asset_keeper.html",
-    "title": "Get started | Fixed Asset Keeper",
-    "keywords": "Get started In order to use Fixed Asset Keeper Configuration Basic Permissions Sets Use of Fixed Asset Keeper Setup To set up Fixed Asset Keeper How to use How to use:"
+    "title": "How to get started | Fixed Asset Keeper",
+    "keywords": "How to get started Role Center In order to use Fixed Asset Keeper no specific role center is required, because the functionality can be accessed via search pane Configuration Basic Permissions Sets Use of Fixed Asset Keeper How to set up Fixed Asset Keeper Click on the button Search for Page or Report... Complete Fixed Asset Setup's fast tab FA Keeper FA Transfer Documents Nos - identify the number series for the fixed asset transfer orders Registered FA Transfer Document Nos. - identify the number series for the posted fixed asset transfer orders Use FA Transfer Documents - enabled, if the manual transfers are restricted. How to use Transfer of the fixed asset In order to perform the transfer of the fixed assets,the fixed asset transfer document need to be created. Click on the button Search for Page or Report... Type FA Transfer document and select it from the list Create a new document In order to transfer the fixed assets between responsible persons, fill in the fields From Responsible Employee No. and To Responsible Employee . In order to transfer the fixed assets between locations, fill in the fields From FA Location code and To FA Location code . By clicking on the button Suggest Lines , document lines will be created accordingly to the stated responsible persons and location what was inserted at the document header. Those fixed assets with the statuss Blocked , Inactive or with mark Disposed off will be skipped. Review the lines created. Post the FA Transfer Order. Now in the fixed asset cards location codes and responsible persons will be changed to the new one. All the historical transfer entries are listed in the FA Transfer Entries . Report FA Transfers Click on the button Search for Page or Report... Type FA Transfers and select it from the list Fill in the report print options Print the report"
   },
   "articles/fixed_asset_keeper/overview.html": {
     "href": "articles/fixed_asset_keeper/overview.html",
-    "title": "Overview | Fixed Asset Keeper",
-    "keywords": "Overview Fixed Asset Keeper is a business software solution developed by ELVA. Fixed Asset Keeper is fully integrated with Dynamics 365 Business Central"
+    "title": "Kopsavilkums | Fixed Asset Keeper",
+    "keywords": "Kopsavilkums Fixed Asset Keeper ir biznesa programmatūras risinājums, kas izstrādāts ELVA. Fixed Asset Keeper ir pilnībā integrēts ar Dynamics 365 Business Central, paplašinot sistēmas funkcionalitāti. Aplikācija dod iespēju lietotājiem: Uzturēt pamatlīdzekļus pārvietošanas žurnālu norādot mainītos novietojumus un/vai atbildīgās personas; Iegūt žurnāla rindas pārvietošanai pamatojoties uz atlasīto novietojumu un/vai atbildīgo personu; Izdrukāt pārvietošanas dokumentāciju; Izdrukāt pamatlīdzekļu pārvietošanas atskaiti."
   },
   "articles/fixed_asset_keeper/usage_scenarios.html": {
     "href": "articles/fixed_asset_keeper/usage_scenarios.html",

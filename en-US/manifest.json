@@ -18,19 +18,22 @@
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/faq.html",
-          "hash": "SSD2Ldcc+jGE3B4EJIv5kg=="
+          "hash": "L1QEqKDHJCYSx122SLm+Zw=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "articles/fixed_asset_keeper/fixed_asset_keeper.md",
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/fixed_asset_keeper.html",
-          "hash": "Nx6D2CURkMkmUsC94ZSu4g=="
+          "hash": "SPoE42UPwmekneDf/hmJKw=="
         }
       },
       "is_incremental": false,
@@ -42,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/overview.html",
-          "hash": "hggAnHwwmRaVqpCddKbAzg=="
+          "hash": "dsG9OSXoejZUj67VLE7Qig=="
         }
       },
       "is_incremental": false,
@@ -54,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/toc.html",
-          "hash": "4zlOumcw29SO1IfroEbYwA=="
+          "hash": "rkqUjJ9PXB8L2efRiYzGgA=="
         }
       },
       "is_incremental": false,
