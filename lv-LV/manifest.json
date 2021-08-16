@@ -25,12 +25,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "articles/fixed_asset_keeper/fixed_asset_keeper.md",
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/fixed_asset_keeper.html",
-          "hash": "h69N/WXntvfh5Nb5MvA6pEHeQXWbdL+5+l21UznC++U="
+          "hash": "Jbn5vJB6a/D4DMEe7CP2hQGp2qMOGVjuPmDN2b2D6PU="
         }
       },
       "is_incremental": false,
