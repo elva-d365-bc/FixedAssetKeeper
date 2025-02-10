@@ -1,8 +1,8 @@
 {
   "articles/fixed_asset_keeper/faq.html": {
     "href": "articles/fixed_asset_keeper/faq.html",
-    "title": "Biežāk uzdotie jautājumi | Fixed Asset Keeper",
-    "keywords": "Biežāk uzdotie jautājumi Overview Fixed Asset Keeper is a business software solution developed by ELVA"
+    "title": "Frequently Asked Questions | Fixed Asset Keeper",
+    "keywords": "Frequently Asked Questions Overview Fixed Asset Keeper is a business software solution developed by ELVA"
   },
   "articles/fixed_asset_keeper/fixed_asset_keeper.html": {
     "href": "articles/fixed_asset_keeper/fixed_asset_keeper.html",
@@ -11,13 +11,13 @@
   },
   "articles/fixed_asset_keeper/overview.html": {
     "href": "articles/fixed_asset_keeper/overview.html",
-    "title": "Kopsavilkums | Fixed Asset Keeper",
-    "keywords": "Kopsavilkums Fixed Asset Keeper ir biznesa programmatūras risinājums, kas izstrādāts ELVA. Fixed Asset Keeper ir pilnībā integrēts ar Dynamics 365 Business Central, paplašinot sistēmas funkcionalitāti. Aplikācija dod iespēju lietotājiem: Uzturēt pamatlīdzekļus pārvietošanas žurnālu norādot mainītos novietojumus un/vai atbildīgās personas; Iegūt žurnāla rindas pārvietošanai pamatojoties uz atlasīto novietojumu un/vai atbildīgo personu; Izdrukāt pārvietošanas dokumentāciju; Izdrukāt pamatlīdzekļu pārvietošanas atskaiti."
+    "title": "Overview | Fixed Asset Keeper",
+    "keywords": "Overview Fixed Asset Keeper is a business software solution developed by ELVA. Fixed Asset Keeper is fully integrated with Dynamics 365 Business Central, by extending its functionality. The Application enables the user to: Maintain a fixed assets move log by specifying the changed locations and/or responsible persons; Get log lines to move based on selected location and/or responsible person; Print moving documentation; Print the Move of Property, Plant and Equipment Report."
   },
   "articles/fixed_asset_keeper/usage_scenarios.html": {
     "href": "articles/fixed_asset_keeper/usage_scenarios.html",
     "title": "Key Usage Scenarios | Fixed Asset Keeper",
-    "keywords": "Key Usage Scenarios"
+    "keywords": "Key Usage Scenarios Walkthrough: How to set up"
   },
   "articles/support/customer_terms.html": {
     "href": "articles/support/customer_terms.html",

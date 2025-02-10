@@ -18,22 +18,74 @@
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/faq.html",
-          "hash": "rUHKAqbXTU3cbFYY2ULSiU16TbfGFGGTerKr7Lr6XvY="
+          "hash": "LizypF9kA7k3meRJAyrRKLfQJsQKhP6GHUMJTYFwK9k="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/fixed_asset_keeper/fixed_asset_keeper.md",
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/fixed_asset_keeper.html",
-          "hash": "0nQHDR7K7pNkKTkcm9/3OqGcHgTC2t2jQ9Xr4CwWeu8="
+          "hash": "lHashywLkVjk8eje1OpuLyafyj6WBZDbYFf1Oe7inr0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/fixed_asset_keeper/images/get_started_001.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/fixed_asset_keeper/images/get_started_001.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/fixed_asset_keeper/images/set_up_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/fixed_asset_keeper/images/set_up_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/fixed_asset_keeper/images/transfer_card_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/fixed_asset_keeper/images/transfer_card_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/fixed_asset_keeper/images/transfer_ledger_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/fixed_asset_keeper/images/transfer_ledger_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/fixed_asset_keeper/images/transfer_report_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/fixed_asset_keeper/images/transfer_report_1.png"
         }
       },
       "is_incremental": false,
@@ -45,7 +97,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/overview.html",
-          "hash": "ZoVy/oC0sUDQd9KLYwzRD5zLWkSg2D8eA3RFMLBSImQ="
+          "hash": "cvchxUNAVo/f6IjsI1zsdVc5GSH2JZcvzKJZso3Hb50="
         }
       },
       "is_incremental": false,
@@ -57,7 +109,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/toc.html",
-          "hash": "RUjMZMjA7lFqKOHBaoNZgjWSeXJPnps5vTM8PwBJvVE="
+          "hash": "PRmGi2/Bt2tXCvkW8TapbshcuLIPCqXp1aWs/fVeykU="
         }
       },
       "is_incremental": false,
@@ -69,7 +121,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/usage_scenarios.html",
-          "hash": "yJFF5KrwgbovIyDiNg5LSjhhS2H2TswtkrkNbutzP4s="
+          "hash": "ia2+1Y+ybxFPCZ1X+FA/U7z8PY84ImqITIypk6F8XtA="
         }
       },
       "is_incremental": false,
@@ -81,7 +133,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/support/customer_terms.html",
-          "hash": "k+htORBLBLIzofJecgxaSpJNiKaYg61eKSqY657bFmo="
+          "hash": "sje7AUYNiDVL/9hzD1CdEzarqk54p8PLYdY6NFDjotU="
         }
       },
       "is_incremental": false,
@@ -93,7 +145,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/support/privacy_statement.html",
-          "hash": "wWKTNZNMGwz2j1dMiu+kUiUC0v7MYuiG9SHV7j4q22g="
+          "hash": "6kmxqkQounjEfpIFeSxnbUasnYSCJqxFW32EIdxuorA="
         }
       },
       "is_incremental": false,
@@ -139,7 +191,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "HBV7g9wKeevQtn6Gba9laCZFbJx1GroAuN5fEY0uTRM="
+          "hash": "Xycvli45a4O1sRiwAc7yQfeZLcaFiKboGJ7LDf/bACk="
         }
       },
       "is_incremental": false,
@@ -151,7 +203,7 @@
       "output": {
         ".html": {
           "relative_path": "readme.html",
-          "hash": "9wHCK57yv+Wi1myFa9dAihW3V/+zi6KQ0Kdq1qKVOlI="
+          "hash": "NIwBhHWBcvR5PvSoxGONJt7yH+LIhfibRG2Dhy2Hj30="
         }
       },
       "is_incremental": false,
