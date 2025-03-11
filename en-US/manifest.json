@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/fixed_asset_keeper.html",
-          "hash": "lHashywLkVjk8eje1OpuLyafyj6WBZDbYFf1Oe7inr0="
+          "hash": "HbhwPzOjrv8kyVbF39tkNvhFwjzLiRMqMlr6Ed3c99Y="
         }
       },
       "is_incremental": false,
@@ -38,10 +38,32 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "articles/fixed_asset_keeper/images/get_started_001.png",
+      "source_relative_path": "articles/fixed_asset_keeper/images/FATransferLedger_1.png",
       "output": {
         "resource": {
-          "relative_path": "articles/fixed_asset_keeper/images/get_started_001.png"
+          "relative_path": "articles/fixed_asset_keeper/images/FATransferLedger_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/fixed_asset_keeper/images/FATransfer_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/fixed_asset_keeper/images/FATransfer_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/fixed_asset_keeper/images/FATransfer_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/fixed_asset_keeper/images/FATransfer_2.png"
         }
       },
       "is_incremental": false,
@@ -59,45 +81,12 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "articles/fixed_asset_keeper/images/transfer_card_1.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/fixed_asset_keeper/images/transfer_card_1.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/fixed_asset_keeper/images/transfer_ledger_1.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/fixed_asset_keeper/images/transfer_ledger_1.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "articles/fixed_asset_keeper/images/transfer_report_1.png",
-      "output": {
-        "resource": {
-          "relative_path": "articles/fixed_asset_keeper/images/transfer_report_1.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "articles/fixed_asset_keeper/overview.md",
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/overview.html",
-          "hash": "cvchxUNAVo/f6IjsI1zsdVc5GSH2JZcvzKJZso3Hb50="
+          "hash": "L/yaxWP81qNNZywsXD86tTRh67TdgugHrMT/9Cx6AWg="
         }
       },
       "is_incremental": false,
@@ -109,19 +98,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/toc.html",
-          "hash": "PRmGi2/Bt2tXCvkW8TapbshcuLIPCqXp1aWs/fVeykU="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/fixed_asset_keeper/usage_scenarios.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/fixed_asset_keeper/usage_scenarios.html",
-          "hash": "ia2+1Y+ybxFPCZ1X+FA/U7z8PY84ImqITIypk6F8XtA="
+          "hash": "HEx4Sv/jnN+0eLcyXPzUU1+eAwdeYr1K8wyFJA+X/Wk="
         }
       },
       "is_incremental": false,
@@ -236,7 +213,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 8,
+          "total_file_count": 7,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {

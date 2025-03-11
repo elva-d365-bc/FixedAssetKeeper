@@ -79,65 +79,60 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="how-to-get-started">How to get started</h1>
 
-<h2 id="role-center">Role Center</h2>
-<p>In order to use Fixed Asset Keeper no specific role center is required, because the functionality can be accessed via search pane</p>
-<h2 id="configuration">Configuration</h2>
-<p>Basic</p>
 <h2 id="permissions-sets">Permissions Sets</h2>
-<p>Use of Fixed Asset Keeper</p>
+<p>To use Fixed Asset Keeper,  the user must be assigned the permission set <strong>EAK-FA-KEEPER</strong>.</p>
 <h1 id="how-to-set-up-fixed-asset-keeper">How to set up Fixed Asset Keeper</h1>
 <ol>
-<li><p>Click on the button Search for Page or Report...
-<img src="images/get_started_001.png" alt="alt"></p>
+<li><p>Select the <strong>Search</strong> icon in the top-right corner of the page, enter <strong>Fixed Asset Setup</strong> and then select the related link.</p>
 </li>
-<li><p>Complete Fixed Asset Setup's fast tab <em>FA Keeper</em></p>
+<li><p>Fill in the Fixed Asset Setup tab FA Keeper:</p>
 </li>
 </ol>
 <ul>
-<li>FA Transfer Documents Nos - identify the number series for the fixed asset transfer orders</li>
-<li>Registered FA Transfer Document Nos. - identify the number series for the posted fixed asset transfer orders</li>
-<li>Use FA Transfer Documents - enabled, if the manual transfers are restricted.</li>
+<li>FA Transfer Documents Nos. - set the number series for fixed asset transfer documents</li>
+<li>Registered FA Transfer Document Nos. - set the number series for registered fixed asset transfer documents</li>
+<li>FA Modify Check – specifies whether it is allowed to manually modify the <strong>FA Location Code</strong> and <strong>Responsible Employee</strong> on the Fixed Asset Card. Choose one of the following options:
+<ul>
+<li>None – no control is applied if fields are manually changed on the card. Select this option if Fixed Asset Keeper is not used in the company.</li>
+<li>Warning – a warning is displayed if the fields are manually changed on the card.</li>
+<li>Error – Manual changes to the fields on the card are not allowed.</li>
 </ul>
+</li>
+</ul>
+<p>Any option allows the initial entry of the <strong>FA Location Code</strong> and <strong>Responsible Employee</strong> on the Fixed Asset Card.</p>
 <p><img src="images/set_up_1.png" alt="alt"></p>
 <h1 id="how-to-use">How to use</h1>
-<h2 id="transfer-of-the-fixed-asset">Transfer of the fixed asset</h2>
-<p>In order to perform the transfer of the fixed assets,the fixed asset transfer document need to be created.</p>
+<h2 id="transfer-of-the-fixed-asset">Transfer of the Fixed Asset</h2>
 <ol>
-<li><p>Click on the button Search for Page or Report...
-<img src="images/get_started_001.png" alt="alt"></p>
+<li><p>Choose the <strong>Search</strong> icon in the top-right corner of the page, enter <strong>FA Transfer Documents</strong>, and select the related link.</p>
 </li>
-<li><p>Type FA Transfer document and select it from the list</p>
+<li><p>Choose <strong>+New</strong> to create a new document and fill in the following fields:</p>
+<ul>
+<li>Document Date</li>
+<li>Justification</li>
+<li>If you want to change the responsible employee, fill in the fields <strong>From Responsible Employee No.</strong> and <strong>To Responsible Employee No.</strong></li>
+<li>If you want to change the fixed asset location, fill in the fields <strong>From FA Location Code</strong> and <strong>To FA Location Code</strong></li>
+</ul>
 </li>
-<li><p>Create a new document
-<img src="images/transfer_card_1.png" alt="alt"></p>
-</li>
-<li><p>In order to transfer the fixed assets between responsible persons, fill in the fields <em>From Responsible Employee No.</em> and <em>To Responsible Employee</em>.</p>
-</li>
-<li><p>In order to transfer the fixed assets between locations, fill in the fields <em>From FA Location code</em> and <em>To FA Location code</em>.</p>
-</li>
-<li><p>By clicking on the button <em>Suggest Lines</em>, document lines will be created accordingly to the stated responsible persons and location what was inserted at the document header. Those fixed assets with the statuss <em>Blocked</em>, <em>Inactive</em> or with mark <em>Disposed off</em> will be skipped.</p>
-</li>
-<li><p>Review the lines created.</p>
-</li>
-<li><p>Post the FA Transfer Order. Now in the fixed asset cards location codes and responsible persons will be changed to the new one.</p>
-</li>
-<li><p>All the historical transfer entries are listed in the <em>FA Transfer Entries</em>.
-<img src="images/transfer_ledger_1.png" alt="alt"></p>
+<li><p>Choose <strong>Process – Suggest Lines</strong> to automatically populate lines with fixed assets where the Responsible Employee No. and FA Location Code match the values specified in the header.</p>
 </li>
 </ol>
-<h2 id="reports-for-fa-transfers">Reports for FA Transfers</h2>
-<ol>
-<li><p>Click on the button Search for Page or Report...
-<img src="images/get_started_001.png" alt="alt"></p>
+<p><img src="images/FATransfer_1.png" alt="alt"></p>
+<ol start="4">
+<li><p>Delete any unnecessary lines if needed. You can also manually add lines if the Responsible Employee No. and FA Location Code match the header values.</p>
 </li>
-<li><p>Type FA Transfers and select it from the list</p>
+<li><p>To print the transfer document, choose <strong>Actions – Print</strong>.</p>
 </li>
-<li><p>Fill in the report print options</p>
+<li><p>Once the fixed assets are transferred, change the document status to <strong>Accepted</strong>.</p>
 </li>
-<li><p>Print the report
-<img src="images/transfer_report_1.png" alt="alt"></p>
+<li><p>Choose <strong>Process – Register</strong> to register the document. Only documents with the status Accepted can be registered.</p>
 </li>
 </ol>
+<p><img src="images/FATransfer_2.png" alt="alt"></p>
+<h2 id="fixed-asset-transfer-history">Fixed Asset Transfer History</h2>
+<p>To view registered fixed asset transfer documents, open the <strong>Registered FA Transfer Documents</strong> page.</p>
+<p>To view the transfer history of a fixed asset, open the <strong>Fixed Asset Card</strong>, choose <strong>Related – History – FA Transfer Ledger Entries</strong>.</p>
+<p><img src="images/FATransferLedger_1.png" alt="alt"></p>
 </article>
           </div>
           
