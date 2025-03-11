@@ -25,15 +25,56 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/fixed_asset_keeper/fixed_asset_keeper.md",
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/fixed_asset_keeper.html",
-          "hash": "frXKvIpliMa0BxtmkL+CxVLPYOs4jEwTjW5o93Q987g="
+          "hash": "7mRYNcM2o7B4F4wxYuMTelMgkV1/gN2fcy2xpn2gwDA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/fixed_asset_keeper/images/FATransferLedger_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/fixed_asset_keeper/images/FATransferLedger_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/fixed_asset_keeper/images/FATransfer_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/fixed_asset_keeper/images/FATransfer_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/fixed_asset_keeper/images/FATransfer_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/fixed_asset_keeper/images/FATransfer_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/fixed_asset_keeper/images/Set_up_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/fixed_asset_keeper/images/Set_up_1.png"
         }
       },
       "is_incremental": false,
@@ -45,7 +86,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/overview.html",
-          "hash": "G2SfS5oPv/YfvxhSstQVLh8enHanV4DwMcmTPx6qICs="
+          "hash": "+jT0DBqD976MHRR1ylOcg5FKH0CcymarFW3r7lljSx0="
         }
       },
       "is_incremental": false,
@@ -57,19 +98,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/toc.html",
-          "hash": "Kyd7GzwSAA8lAD5VFCp+tRklufs9apUSa5kZh5fAqI4="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/fixed_asset_keeper/usage_scenarios.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/fixed_asset_keeper/usage_scenarios.html",
-          "hash": "RYKgKx+RxFkRjGi5tv+8LAwKUmoQ4D4pKbZAdKJRozw="
+          "hash": "0i2YA+6+G39KMIOazaiO2y5W3HZzuAM81bkFpeXyUQ8="
         }
       },
       "is_incremental": false,
@@ -184,7 +213,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 8,
+          "total_file_count": 7,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
