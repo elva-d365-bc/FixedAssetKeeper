@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/fixed_asset_keeper.html",
-          "hash": "HbhwPzOjrv8kyVbF39tkNvhFwjzLiRMqMlr6Ed3c99Y="
+          "hash": "HW1yxAYoYHzsOgiEOH2JfWK1Cux4jA3paY2t43z94lI="
         }
       },
       "is_incremental": false,
@@ -99,6 +99,18 @@
         ".html": {
           "relative_path": "articles/fixed_asset_keeper/toc.html",
           "hash": "HEx4Sv/jnN+0eLcyXPzUU1+eAwdeYr1K8wyFJA+X/Wk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/fixed_asset_keeper/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/fixed_asset_keeper/usage_scenarios.html",
+          "hash": "S25L3v1hEtCDQdra47F8k2gZU3Inm0C766nDFnE0YiA="
         }
       },
       "is_incremental": false,
@@ -213,7 +225,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 7,
+          "total_file_count": 8,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
